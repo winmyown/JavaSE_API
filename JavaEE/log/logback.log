@@ -1,0 +1,51 @@
+e9f745d7-b8a3-478c-9a64-3f26e2d2a69a 2016-10-25 11:52:36,712 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+Nixon 2016-10-25 11:52:36,719 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 11:52:36,719 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+5661436c-f729-44a6-be2f-cf3f8cc42ea3 2016-10-25 11:53:38,657 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+5661436c-f729-44a6-be2f-cf3f8cc42ea3 2016-10-25 11:53:38,658 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 11:53:38,658 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 11:53:38,658 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+9964fa4a-2f4f-4b31-bc36-fddac8213817 2016-10-25 11:55:47,442 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+9964fa4a-2f4f-4b31-bc36-fddac8213817 2016-10-25 11:55:47,443 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 11:55:47,443 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+Nixon 2016-10-25 11:55:47,443 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+8e9f93db-7462-4819-ae7b-a1e5b518874f 2016-10-25 11:56:06,518 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+8e9f93db-7462-4819-ae7b-a1e5b518874f 2016-10-25 11:56:06,519 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 11:56:06,520 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 11:56:06,520 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+524052be-caad-42b9-986c-1accba76edea 2016-10-25 16:26:50,375 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+524052be-caad-42b9-986c-1accba76edea 2016-10-25 16:26:50,381 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:26:50,382 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:26:50,382 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+f9d9317a-6d09-438a-bc65-5ef1fe8bd916 2016-10-25 16:28:37,423 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+f9d9317a-6d09-438a-bc65-5ef1fe8bd916 2016-10-25 16:28:37,424 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:28:37,424 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:28:37,424 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+128768fc-ec7b-4648-9350-4efa6d8e3de3 2016-10-25 16:29:00,852 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+128768fc-ec7b-4648-9350-4efa6d8e3de3 2016-10-25 16:29:00,854 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:29:00,854 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:29:00,854 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+8e5422d0-a998-4a04-9966-2f02159ea847 2016-10-25 16:47:35,443 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+8e5422d0-a998-4a04-9966-2f02159ea847 2016-10-25 16:47:35,444 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:47:35,444 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:47:35,444 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+a185c776-6d72-406f-bd02-dff58a7b9136 2016-10-25 16:47:56,758 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+a185c776-6d72-406f-bd02-dff58a7b9136 2016-10-25 16:47:56,759 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:47:56,759 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:47:56,759 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+37159d18-2d55-40c3-8dec-45babd3f9fa7 2016-10-25 16:48:14,159 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+37159d18-2d55-40c3-8dec-45babd3f9fa7 2016-10-25 16:48:14,160 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:48:14,160 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:48:14,160 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+b6617b16-4be3-42fa-870b-19569518b4d3 2016-10-25 16:48:23,266 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+b6617b16-4be3-42fa-870b-19569518b4d3 2016-10-25 16:48:23,267 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+Nixon 2016-10-25 16:48:23,267 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:48:23,267 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+ 2016-10-25 16:49:45,818 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+ 2016-10-25 16:49:45,819 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+ 2016-10-25 16:49:45,819 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:49:45,819 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.
+ 2016-10-25 16:50:08,376 [main] INFO  slf4j.SimpleMDC - Check enclosed.
+ 2016-10-25 16:50:08,378 [main] DEBUG slf4j.SimpleMDC - The most beautiful two words in English.
+ 2016-10-25 16:50:08,378 [main] INFO  slf4j.SimpleMDC - I am not a crook.
+ 2016-10-25 16:50:08,378 [main] INFO  slf4j.SimpleMDC - Attributed to the former US president. 17 Nov 1973.

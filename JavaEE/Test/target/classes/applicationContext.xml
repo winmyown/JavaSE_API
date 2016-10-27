@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	default-lazy-init="true">
+
+<!--基于代理-->
+
+	<!-- 创建一个增强 advice -->
+	<bean id ="sleepHelper" class="AOP_Demo.SleepHelper"/>
+
+	<bean id="lina" class="AOP_Demo.Self"/>
+	<!-- 定义切点  匹配所有的sleep方法-->
+	<bean id ="sleepPointcut" class="org.springframework.aop.support.JdkRegexpMethodPointcut">
+		<property name="pattern" value=".*sleep"></property>
+	</bean>
+
+	<!-- 切面  增强+切点结合 -->
+	<bean id="sleepHelperAdvisor" class="org.springframework.aop.support.DefaultPointcutAdvisor">
+		<property name="advice" ref="sleepHelper"/>
+		<property name="pointcut" ref="sleepPointcut"/>
+	</bean>
+
+	<!-- 定义代理对象 -->
+	<bean id="linaProxy" class="org.springframework.aop.framework.ProxyFactoryBean">
+		<property name="target" ref="lina"/>
+		<property name="interceptorNames" value="sleepHelperAdvisor"/>
+		<!-- <property name="proxyInterfaces" value="com.tgb.springaop.service.Sleepable"/> -->
+	</bean>
+
+<!--java对象切面-->
+	<!-- 创建一个增强 advice -->
+	<bean id ="sleepHelper2" class="AOP_Demo.SleepHelper"/>
+	<!-- 目标类 -->
+	<bean id="lina2" class="AOP_Demo.Self"/>
+
+	<!-- 配置切点和通知-->
+	<bean id ="sleepAdvisor" class="org.springframework.aop.support.RegexpMethodPointcutAdvisor">
+		<property name="advice" ref="sleepHelper2"></property>
+		<property name="pattern" value=".*sleep"/>
+	</bean>
+
+	<!-- 自动代理配置 -->
+	<bean class="org.springframework.aop.framework.autoproxy.DefaultAdvisorAutoProxyCreator"/>
+
+
+</beans>
