@@ -1,0 +1,14 @@
+{
+    "sites"  : [{
+        "name"    : "oracle.com",
+        "url"     : "https://docs.oracle.com/javase/tutorial/*",
+        "title"   : "[[{$('header.title h1').text()}]]",
+        "desc"    : "[[{$('.article-summary').text()}]]",
+        "include" : "<div class='MainFlow_indented'>",
+        "exclude" : [
+            "<div class='clearfix'>",
+            "<div class='rating_box'>",
+            "[['<strong>[广告]活动入口:</strong>']]"
+        ]
+    }
+}
