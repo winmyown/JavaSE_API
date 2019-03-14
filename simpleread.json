@@ -4,7 +4,7 @@
         "url"     : "https://docs.oracle.com/javase/tutorial/*",
         "title"   : "[[{$('header.title h1').text()}]]",
         "desc"    : "[[{$('.article-summary').text()}]]",
-        "include" : "<div class='MainFlow_indented'>",
+        "include" : "[[{$('.MainFlow_indented')}]]",
         "exclude" : [
             "<div class='clearfix'>",
             "<div class='rating_box'>",
